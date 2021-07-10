@@ -1,0 +1,8 @@
+This project is based on MERN stack and here i built Whats APP clone.
+dependancies used are
+
+1) MERN
+2) axios for routing
+3) postman for testing 
+4) pusher for realtime Monitoring b/w front and back ends
+ 
