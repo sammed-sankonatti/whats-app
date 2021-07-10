@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whats-app/static/css/main.7595bc90.chunk.css",
+    "main.js": "/whats-app/static/js/main.23f4916e.chunk.js",
+    "main.js.map": "/whats-app/static/js/main.23f4916e.chunk.js.map",
+    "runtime-main.js": "/whats-app/static/js/runtime-main.42253129.js",
+    "runtime-main.js.map": "/whats-app/static/js/runtime-main.42253129.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/whats-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3bead84e.chunk.js": "/whats-app/static/js/2.3bead84e.chunk.js",
+    "static/js/2.3bead84e.chunk.js.map": "/whats-app/static/js/2.3bead84e.chunk.js.map",
+    "index.html": "/whats-app/index.html",
+    "precache-manifest.0305477682cbf88245b23e55cacc4c70.js": "/whats-app/precache-manifest.0305477682cbf88245b23e55cacc4c70.js",
+    "service-worker.js": "/whats-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/whats-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.7595bc90.chunk.css.map": "/whats-app/static/css/main.7595bc90.chunk.css.map",
+    "static/js/2.3bead84e.chunk.js.LICENSE.txt": "/whats-app/static/js/2.3bead84e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42253129.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3bead84e.chunk.js",
+    "static/css/main.7595bc90.chunk.css",
+    "static/js/main.23f4916e.chunk.js"
+  ]
+}
